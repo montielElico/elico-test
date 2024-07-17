@@ -7,3 +7,5 @@
 ## Horarios
 
 ## Estudiantes
+
+## Edificios
