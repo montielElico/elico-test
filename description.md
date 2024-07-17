@@ -11,3 +11,5 @@
 ## Edificios
 
 ## Salones
+
+## Restaurantes
