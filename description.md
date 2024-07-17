@@ -5,3 +5,7 @@
 ## Profesores
 
 ## Horarios
+
+## Estudiantes
+
+## Edificios
