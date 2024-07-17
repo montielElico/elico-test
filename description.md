@@ -9,3 +9,7 @@
 ## Estudiantes
 
 ## Edificios
+
+## Salones
+
+## Restaurantes
